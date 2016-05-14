@@ -1,6 +1,5 @@
 === Just Pink ===
 Contributors: tatianeps
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=blog%40tatianeps%2ecom%2ebr
 Tags: pink, white, two-columns, right-sidebar, fixed-width, custom-menu, featured-images, sticky-post
 Requires at least: 3.5.0
 Tested up to: 3.5.2
@@ -31,7 +30,10 @@ Features:
 
 == Changelog ==
 
-= 1.4 =
+= 1.4.3 =
+* Bug fix: Fixed header menu position when assigned to primary menu.
+
+= 1.4.1 =
 * Feature: configure Just Pink to display lists of last posts, top five tags and top five categories below header navigation.
 * Feature: theme options available in English (en_US) and Brazilian POrtuguese (pt_BR).
 
