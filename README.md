@@ -1,5 +1,5 @@
 # Just Pink
-Contributors: [tatianeps](http://tpires.me)
+Contributors: [Tatiane Pires](http://tpires.me)
 
 Tags: pink, white, two-columns, right-sidebar, fixed-width, custom-menu, featured-images, sticky-post
 
