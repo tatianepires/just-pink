@@ -12,7 +12,7 @@ add_action('after_setup_theme', 'justpink_theme_setup');
  ******************************/
 function justpink_fonts() {
 	$protocol = is_ssl() ? 'https' : 'http';
-	wp_register_style('tpsjustpink-fonts', $protocol.'://fonts.googleapis.com/css?family=Indie+Flower');
+	wp_register_style('tpsjustpink-fonts', $protocol.'://fonts.googleapis.com/css?family=Indie+Flower|Open+sans');
 	wp_enqueue_style( 'tpsjustpink-fonts');
 }
 add_action('wp_enqueue_scripts', 'justpink_fonts');
