@@ -1,9 +1,14 @@
 # Just Pink
-Contributors: tatianeps
+Contributors: [tatianeps](http://tpires.me)
+
 Tags: pink, white, two-columns, right-sidebar, fixed-width, custom-menu, featured-images, sticky-post
+
 Requires at least: 3.5.0
+
 Tested up to: 4.6.1
+
 License: GNU General Public License v2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
@@ -30,4 +35,4 @@ Simple pink theme based on Twenty Twelve.
 ## Upgrade Notice
 
 ### 1.4
-New feature: display last posts, top five tags and categories below header navigation.
+* New feature: display last posts, top five tags and categories below header navigation.
