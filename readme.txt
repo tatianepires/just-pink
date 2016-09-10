@@ -2,33 +2,20 @@
 Contributors: tatianeps
 Tags: pink, white, two-columns, right-sidebar, fixed-width, custom-menu, featured-images, sticky-post
 Requires at least: 3.5.0
-Tested up to: 3.5.2
+Tested up to: 4.6.1
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simple pink theme based on Twenty Twelve.
 
 == Description ==
 
-Thematic is a free, open-source, highly extensible, search-engine optimized WordPress Theme Framework featuring 13 widget-ready areas, grid-based layout samples, styling for popular plugins, and a whole community behind it. It's perfect for beginner bloggers and WordPress development professionals.
+Simple pink theme based on Twenty Twelve.
 
-Features:
-
-* Perfect to use as-is or as a blank WordPress theme for development
-* Fully Search-Engine Optimized
-* Extra widget-ready areas (13 in total) and more possible in your Child Theme
-* Free and commercially supported Child Themes are available for upgrading the theme
-* Includes a sample WordPress Child Theme for rapid development
-* A wiki-editable guide to Thematic Customization
-* Ready for WordPress plugins like Subscribe to Comments, WP-PageNavi, and Comment-license
-* Fully compatible with All-In-One SEO and Platinum SEO plugins
-* Multiple, easy to implement, bulletproof layout options for 2, or 3 column designs
-* Modular CSS with pre-packaged resets and basic typography
-* Dynamic post and body classes make it a hyper-canvas for CSS artists
-* Editable footer textremove the theme credit without harming the theme
-* Options for multi-author blogs
 
 == Changelog ==
+
+= 1.4.4 =
+* Bug fix: Fixed mobile primary menu, displaying only top level items on screens below 600px width.
 
 = 1.4.3 =
 * Bug fix: Fixed header menu position when assigned to primary menu.
