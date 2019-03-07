@@ -5,7 +5,7 @@ Tags: pink, white, two-columns, right-sidebar, fixed-width, custom-menu, feature
 
 Requires at least: 3.5.0
 
-Tested up to: 4.6.1
+Tested up to: 5.1
 
 License: GNU General Public License v2 or later
 
@@ -18,6 +18,11 @@ Simple pink theme based on Twenty Twelve.
 
 
 ## Changelog
+
+### 1.4.6
+
+* Tested with clean install of WordPress 5.1, and Theme Unit Test.
+* Loading CSS from TwentyTwelve 2.9.
 
 ### 1.4.4
 * Bug fix: Fixed mobile primary menu, displaying only top level items on screens below 600px width.

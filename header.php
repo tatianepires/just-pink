@@ -41,6 +41,7 @@
 	</header><!-- #masthead -->
 	
 	<nav id="site-navigation" class="main-navigation" role="navigation">
+		<button class="menu-toggle"><?php _e( 'Menu', 'twentytwelve' ); ?></button>
 		<div class="site">
 			<a class="assistive-text" href="#content" title="<?php esc_attr_e( 'Skip to content', 'justpink' ); ?>"><?php _e( 'Skip to content', 'justpink' ); ?></a>
 			<?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_class' => 'nav-menu' ) ); ?>
